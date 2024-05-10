@@ -32,28 +32,13 @@ const CONFIG = {
       header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
-        {
-          title: 'Project Name',
-          description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        },
-        {
-          title: 'Project Name',
-          description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        },
+        
       ],
     },
   },
   seo: {
     title: 'Portfolio of Kim Tae Won',
-    description: '',
+    description: 'Hello ! my name is Tae won Kim. I am student of SKKU, korea. I am majoring math and software.',
     imageURL: '',
   },
   social: {
@@ -74,7 +59,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+       // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
@@ -101,9 +86,9 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
+      name: 'Computer literacy',
+      body: 'Computer literacy level 1',
+      year: 'March 2020',
       link: 'https://example.com',
     },
   ],
