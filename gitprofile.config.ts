@@ -86,7 +86,7 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'SKKU , SUWON , KOREA',
+      institution: '벡터헤석 / 암호론 / 시스템프로그램 / 자료구조개론 / 컴퓨터개론 / 정수론 / 해석학 / 복소해석학 / 통계학원론 ',
       degree: 'Department of Mathematics , Software',
       from: '2020',
       to: '2024',
@@ -100,7 +100,7 @@ const CONFIG = {
       authors: 'John Doe, Jane Smith',
       link: 'https://example.com',*/
       description:
-        'hello ! my name is Kim tae won ',
+        ' ',
     },
     {
       
