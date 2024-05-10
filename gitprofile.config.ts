@@ -38,7 +38,7 @@ const CONFIG = {
   },
   seo: {
     title: 'Portfolio of Kim Tae Won',
-    description: 'Hello ! my name is Tae won Kim. I am student of SKKU, korea. I am majoring math and software.',
+    description: '',
     imageURL: '',
   },
   social: {
